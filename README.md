@@ -5,7 +5,7 @@ Files for Advance Interactive Prototype class
 
 
 # Wire Diagram
-![Wire Diagram](../img/Diagram.jpg)
+![Wire Diagram](../main/img/Diagram.jpg)
 # My Demo Code for Week 3 HW:
 ```
 git status
