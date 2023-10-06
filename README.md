@@ -82,8 +82,9 @@ if __name__ == '__main__':
 
 ```
 
-# Later Tasks
-- [x] Info1
-- [ ] Info 2
-- [ ] Info3
+# Tasks
+- [x] Flow Diagram
+- [x] Code(Need Testing)
+- [ ] Physical Prototype
+- [ ] Test One
 
