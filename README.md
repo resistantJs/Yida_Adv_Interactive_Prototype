@@ -5,7 +5,7 @@ Files for Advance Interactive Prototype class
 
 
 # Wire Diagram
-![led blink circuit](../img/Diagram.jpg)
+![Wire Diagram](../img/Diagram.jpg)
 # My Demo Code for Week 3 HW:
 ```
 git status
