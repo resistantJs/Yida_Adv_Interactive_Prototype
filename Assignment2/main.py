@@ -26,7 +26,7 @@ def draw():
   #rotate canvas with angle converted from degrees to radians:
   p5.rotate(p5.radians(angle))
   # change mode to drawr rectangels from center:
-  p5.rectMode(p5.Center)
+  p5.rectMode(p5.CENTER)
   #draw rect at coordinate 0, 0 and 100 width and height
   p5.rect(0,0,100,100)
   #rectore graphical transformation
