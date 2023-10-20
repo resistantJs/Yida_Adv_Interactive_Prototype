@@ -2,6 +2,7 @@ import js as p5
 from js import document
 
 data = None
+angle = 0
 
 def setup():
   p5.createCanvas(300, 300)
@@ -10,7 +11,7 @@ def setup():
 def draw():
   p5.background(255)
 
-  global data
+  global data, angle
   data = document.getElementById("data").innerText
   
   circle_size = int(data)
