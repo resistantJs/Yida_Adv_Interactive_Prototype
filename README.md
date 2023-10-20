@@ -7,11 +7,11 @@ Files for Advance Interactive Prototype class
 ### Assignment#2 Page:
 [Assignment#2 Page](Assignment#2) - Serial communication with PyScript and P5 graphics library  
 
-# Assignment#1 Wire Diagram
+### Assignment#1 Wire Diagram
 ![Wire Diagram](../main/img/Diagram.jpg)
 
-# Assignment#1 Code:
-[Assignment1](Assignment#1/Assignment#1 Complete.py) - Assignment #1 Film Bulk Loader Project
+### Assignment#1 Code:
+[Assignment#1](Assignment#1/Assignment#1_Complete.py) - Assignment #1 Film Bulk Loader Project
 
 # Tasks
 - [x] Flow Diagram
