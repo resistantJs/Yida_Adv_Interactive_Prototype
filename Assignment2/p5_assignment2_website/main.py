@@ -12,14 +12,21 @@ def draw():
   p5.background(255)
 
   global data, angle
-  data = document.getElementById("data").innerText
-  
+  data_String = document.getElementById("data").innerText
+  data_list = data_String.split(',')
+  data = data_list[0]
+  button_val = int(data_list[1])
+
+
+  p5.text(int(data), 10, 20)
+  p5.text(button_val, 10, 30)
   circle_size = int(data)
   p5.noStroke()
   p5.fill(150)
   #p5.ellipse(150, 150, circle_size, circle_size)
   p5.push()
   
+
   #set angle var to int of data
   angle = int(data)
   #move to middle of canvas
@@ -28,6 +35,10 @@ def draw():
   p5.rotate(p5.radians(angle))
   # change mode to drawr rectangels from center:
   p5.rectMode(p5.CENTER)
+  #fill rect with red color
+  #p5.fill(0,250,250)
+  #fill rect with shades of gray base on angle change
+  p5.fill(angle)
   #draw rect at coordinate 0, 0 and 100 width and height
   p5.rect(0,0,100,100)
   #rectore graphical transformation
