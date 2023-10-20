@@ -23,7 +23,7 @@ def draw():
   #set angle var to int of data
   angle = int(data)
   #move to middle of canvas
-  p5.translate(pt.width/2, pt.height/2)
+  p5.translate(p5.width/2, p5.height/2)
   #rotate canvas with angle converted from degrees to radians:
   p5.rotate(p5.radians(angle))
   # change mode to drawr rectangels from center:
