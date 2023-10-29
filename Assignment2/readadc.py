@@ -21,7 +21,7 @@ def loop():
   #print(adc_val)
   # convert adc_val from 0-4095 range to 
   adc_val_8bit = map_value(adc_val, in_min = 0, in_max = 4095,
-                           out_min = 0, out_max = 255)
+                           out_min = 0, out_max = 90)
   # print 8-bit ADC value ending with comma:
   print(adc_val_8bit, end=',')
   # print built-in button value converted to integer:

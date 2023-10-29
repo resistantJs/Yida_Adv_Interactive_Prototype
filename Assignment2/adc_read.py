@@ -2,28 +2,33 @@ import os, sys, io
 import M5
 from M5 import *
 from hardware import *
+from machine import Pin, PWM
+from servo import Servo
 import time
 
 adc = None
 adc_val = None
+servo = None
 
 def setup():
-  global adc, adc_val
+  global adc, adc_val, servo
   M5.begin()
+  servo = Servo(pin=38)
   # configure ADC input on pin G1 with 11dB attenuation:
   adc = ADC(Pin(8), atten=ADC.ATTN_11DB)
 
 def loop():
-  global adc, adc_val
+  global adc, adc_val, servo
   M5.update()
   # read 12-bit analog value (0 - 4095 range):
   adc_val = adc.read()
   #print(adc_val)
   # convert adc_val from 0-4095 range to 
   adc_val_8bit = map_value(adc_val, in_min = 0, in_max = 4095,
-                           out_min = 0, out_max = 255)
+                           out_min = 0, out_max = 180)
   # print 8-bit ADC value ending with comma:
   print(adc_val_8bit, end=',')
+  servo.move(adc_val_8bit)
   # print built-in button value converted to integer:
   print(int(BtnA.isPressed()))
   time.sleep_ms(100)
