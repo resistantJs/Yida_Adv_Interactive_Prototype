@@ -12,8 +12,9 @@ lasttime = 0
 velocity = 4
 y = 0
 a = 0
+button_state = 'up'
 
-
+sound = p5.loadSound('Cannon.wav')
 
 def setup():
   p5.createCanvas(300, 300)
@@ -23,6 +24,7 @@ def draw():
   p5.background(255)
 
   global data, angle, state, statetimer, lasttime, y, a
+  global button_state
   data_String = document.getElementById("data").innerText
   data_list = data_String.split(',')
   data = data_list[0]
@@ -42,10 +44,15 @@ def draw():
   p5.fill(150)
   #p5.ellipse(150, 150, circle_size, circle_size)
 
-  if button_val == 1 :
+  if button_val == 1 and button_state == 'up':
     state = 'shoot'
     lasttime = time.time()
     a = abs(90 - angle)
+    button_state = 'down'
+    sound.play()
+  elif button_val == 0:
+    button_state = 'up'
+
 
     
   if state == 'shoot' :
