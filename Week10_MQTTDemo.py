@@ -41,8 +41,10 @@ def loop():
     print("OFF")
     mqtt_client.publish('ResistantJs/feeds/button-feed', 'OFF', qos=0)
   if(time.ticks_ms() > mqtt_timer + 2500):
-    mqtt_client.publish('ResistantJs/feeds/button-feed', 'waiting', qos=0)
-    print('waiting for data')
+    adc_val = adc.read()
+    #publish analog value as string message
+    mqtt_client.publish('ResistantJs/feeds/adc-feed', str(adc_val), qos=0)
+    print('publish data')
     #update timer
     mqtt_timer = time.ticks_ms()
 
