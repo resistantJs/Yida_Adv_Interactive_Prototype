@@ -15,22 +15,62 @@ View this repository on GitHub Pages: [https://resistantjs.github.io/Yida_Adv_In
 + Week12: 
 
 # Assignment#1
+### Idea
+![Idea1](../main/img/Assignment1idea.jpg)
+
 ### Wire Diagram
 ![Wire Diagram](../main/img/Assignment1.jpg)
 
 ### Code:
 [Assignment1](Assignment1/Assignment1_Complete.py) - Assignment #1 Film Bulk Loader Project
 
-# Assignment#2
-### The WebPage:
-[Assignment2 Page](https://resistantjs.github.io/Yida_Adv_Interactive_Prototype/Assignment2/p5_assignment2_website/) - Serial communication with PyScript and P5 graphics library  
-
-# Assignment#3
-
-
-# Tasks
+### Tasks
 - [x] Flow Diagram
 - [x] Code(Need Testing)
-- [ ] Physical Prototype
-- [ ] Test One
+- [x] Physical Prototype
+- [x] Tested
+
+
+
+# Assignment#2
+### Idea
+![Idea2](../main/img/Assignment2idea.jpg)
+
+### The WebPage:
+[Assignment2 Page](https://resistantjs.github.io/Yida_Adv_Interactive_Prototype/Assignment2/p5_assignment2_website/) - Serial communication with PyScript and P5 graphics library
+
+### Preview:
+![Preview](../main/img/Assignment2.jpg)
+
+### Code:
+[Assignment2](Assignment2/Assignment2.py) - Assignment #2 Cannon Ball Shooter Project
+
+
+
+# Assignment#3
+### Idea
+![Idea3](../main/img/Assignment3idea.jpg)
+
+### Pictures:
+![3Picture1](../main/img/Assignment3.jpg)
+
+### Video:
+![3Video1](../main/video/Assignment3.MOV)
+
+### Wiring:
+![3Picture2](../main/img/Assignment3Wiring.jpg)
+
+
+
+# Assignment#4
+### Idea
+![Idea4](../main/img/Assignment4idea.jpg)
+
+### Prototype Video
+![4Video1](../main/video/Assignment4.mp4)
+
+### Extra Fun
+![4Video2](../main/video/In_Class_Fun.mp4)
+
+
 
