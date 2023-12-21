@@ -11,8 +11,6 @@ View this repository on GitHub Pages: [https://resistantjs.github.io/Yida_Adv_In
 + Week8: IFTTT to email Json demo and SocketConnection Demo 
 + Week9: Assignment#3 Presentation
 + Week10: MQTT Demo
-+ Week11: 
-+ Week12: 
 
 # Assignment#1
 ### Idea
