@@ -58,11 +58,17 @@ https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/assets/49294235/77
 ### Wiring:
 ![3Picture2](../main/img/Assignment3Wiring.JPG)
 
+### Code:
+[Assignment3](Assignment3/Assignment3_PerpetualMotor.py) - Assignment #3 Perpetual Motor Project
+
 
 
 # Assignment#4
 ### Idea
 ![Idea4](../main/img/Assignment4idea.jpg)
+
+### Code:
+[Assignment4](Assignment4/Final_Final.py) - Assignment #4 Gesture En-light Project
 
 ### Prototype Video
 https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/assets/49294235/8e2acdc9-4593-4c74-b117-2a62d75e783e
