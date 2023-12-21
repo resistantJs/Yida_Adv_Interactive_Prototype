@@ -55,8 +55,7 @@ View this repository on GitHub Pages: [https://resistantjs.github.io/Yida_Adv_In
 ![3Picture1](../main/img/Assignment3.JPG)
 
 ### Video:
-Video:
-https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/raw/main/video/Assignment3.MOV
+https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/assets/49294235/771b409f-894f-4299-9a33-7ceecba4c521
 
 ### Wiring:
 ![3Picture2](../main/img/Assignment3Wiring.JPG)
@@ -68,10 +67,12 @@ https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/raw/main/video/Ass
 ![Idea4](../main/img/Assignment4idea.jpg)
 
 ### Prototype Video
-![4Video1](../main/video/Assignment4.mp4)
+https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/assets/49294235/b8a7ce90-5b71-45c5-8a14-43246b2aa55a
+
 
 ### Extra Fun
-![4Video2](../main/video/In_Class_Fun.mp4)
+https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/assets/49294235/7a9004aa-da76-410d-9f5a-69d4f92de751
+
 
 
 
