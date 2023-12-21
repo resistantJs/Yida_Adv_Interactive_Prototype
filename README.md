@@ -1,5 +1,5 @@
 # Yida_Adv_Interactive_Prototype
-###Files for Advance Interactive Prototype class
+### Files for Advance Interactive Prototype class
 View this repository on GitHub Pages: [https://resistantjs.github.io/Yida_Adv_Interactive_Prototype/](https://resistantjs.github.io/Yida_Adv_Interactive_Prototype/)  
 
 + Week2: Button press on atom s3lite to trigger light connect to pin1 with a `270ohm` resistor
