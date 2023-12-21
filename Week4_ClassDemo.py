@@ -14,8 +14,8 @@ def setup():
     global rgb, input_pin
 
     M5.begin()
-    rgb = RGB(io=2, n=30, type = "WS2812")
-    input_pin = Pin(39, mode=Pin.IN, pull=Pin.PULL_UP)
+    rgb = RGB(io=38, n=30, type = "WS2812")
+    input_pin = Pin(41, mode=Pin.IN, pull=Pin.PULL_UP)
 
 
 def loop():
