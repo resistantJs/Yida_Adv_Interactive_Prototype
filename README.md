@@ -67,11 +67,11 @@ https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/assets/49294235/77
 ![Idea4](../main/img/Assignment4idea.jpg)
 
 ### Prototype Video
-https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/assets/49294235/b8a7ce90-5b71-45c5-8a14-43246b2aa55a
-
+https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/assets/49294235/8e2acdc9-4593-4c74-b117-2a62d75e783e
 
 ### Extra Fun
-https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/assets/49294235/7a9004aa-da76-410d-9f5a-69d4f92de751
+https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/assets/49294235/132bc23d-cecd-4d94-b602-a20b99366d2e
+
 
 
 
