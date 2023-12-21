@@ -1,5 +1,5 @@
 # Yida_Adv_Interactive_Prototype
-Files for Advance Interactive Prototype class
+Files for Advance Interactive Prototype class:
 View this repository on GitHub Pages: [https://resistantjs.github.io/Yida_Adv_Interactive_Prototype/](https://resistantjs.github.io/Yida_Adv_Interactive_Prototype/)  
 
 + Week2: Button press on atom s3lite to trigger light connect to pin1 with a `270ohm` resistor
@@ -7,7 +7,7 @@ View this repository on GitHub Pages: [https://resistantjs.github.io/Yida_Adv_In
 + Week4: RGB 4 States
 + Week5: Demo Assignment#1 & Photo Sensor
 + Week6: Demo Sensor Calibration & Pressure Sensor
-+ Week7: Assignment#2 Presentation /n Demo ways for controlling `360 Motor` using motor move and pwm
++ Week7: Assignment#2 Presentation Demo ways for controlling `360 Motor` using motor move and pwm
 + Week8: IFTTT to email Json demo and SocketConnection Demo 
 + Week9: Assignment#3 Presentation
 + Week10: MQTT Demo
