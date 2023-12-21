@@ -12,7 +12,7 @@ View this repository on GitHub Pages: [https://resistantjs.github.io/Yida_Adv_In
 [Assignment2 Page](Assignment2/p5_assignment2_website) - Serial communication with PyScript and P5 graphics library  
 
 ### Assignment#1 Wire Diagram
-![Wire Diagram](../main/img/Diagram.jpg)
+![Wire Diagram](../main/img/Assignment1.jpg)
 
 ### Assignment#1 Code:
 [Assignment1](Assignment1/Assignment1_Complete.py) - Assignment #1 Film Bulk Loader Project
