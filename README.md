@@ -1,5 +1,5 @@
 # Yida_Adv_Interactive_Prototype
-Files for Advance Interactive Prototype class
+### Files for Advance Interactive Prototype class
 View this repository on GitHub Pages: [https://resistantjs.github.io/Yida_Adv_Interactive_Prototype/](https://resistantjs.github.io/Yida_Adv_Interactive_Prototype/)  
 
 + Week2: Button press on atom s3lite to trigger light connect to pin1 with a `270ohm` resistor
@@ -7,12 +7,10 @@ View this repository on GitHub Pages: [https://resistantjs.github.io/Yida_Adv_In
 + Week4: RGB 4 States
 + Week5: Demo Assignment#1 & Photo Sensor
 + Week6: Demo Sensor Calibration & Pressure Sensor
-+ Week7: Assignment#2 Presentation /n Demo ways for controlling `360 Motor` using motor move and pwm
++ Week7: Assignment#2 Presentation Demo ways for controlling `360 Motor` using motor move and pwm
 + Week8: IFTTT to email Json demo and SocketConnection Demo 
 + Week9: Assignment#3 Presentation
 + Week10: MQTT Demo
-+ Week11: 
-+ Week12: 
 
 # Assignment#1
 ### Idea
@@ -55,8 +53,7 @@ View this repository on GitHub Pages: [https://resistantjs.github.io/Yida_Adv_In
 ![3Picture1](../main/img/Assignment3.JPG)
 
 ### Video:
-Video:
-https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/raw/main/video/Assignment3.MOV
+https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/assets/49294235/771b409f-894f-4299-9a33-7ceecba4c521
 
 ### Wiring:
 ![3Picture2](../main/img/Assignment3Wiring.JPG)
@@ -68,10 +65,12 @@ https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/raw/main/video/Ass
 ![Idea4](../main/img/Assignment4idea.jpg)
 
 ### Prototype Video
-![4Video1](../main/video/Assignment4.mp4)
+https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/assets/49294235/8e2acdc9-4593-4c74-b117-2a62d75e783e
 
 ### Extra Fun
-![4Video2](../main/video/In_Class_Fun.mp4)
+https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/assets/49294235/132bc23d-cecd-4d94-b602-a20b99366d2e
+
+
 
 
 
