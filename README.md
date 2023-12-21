@@ -40,7 +40,7 @@ View this repository on GitHub Pages: [https://resistantjs.github.io/Yida_Adv_In
 [Assignment2 Page](https://resistantjs.github.io/Yida_Adv_Interactive_Prototype/Assignment2/p5_assignment2_website/) - Serial communication with PyScript and P5 graphics library
 
 ### Preview:
-![Preview](../main/img/Assignment2.jpg)
+![Preview](../main/img/Assignment2.png)
 
 ### Code:
 [Assignment2](Assignment2/Assignment2.py) - Assignment #2 Cannon Ball Shooter Project
@@ -52,13 +52,14 @@ View this repository on GitHub Pages: [https://resistantjs.github.io/Yida_Adv_In
 ![Idea3](../main/img/Assignment3idea.jpg)
 
 ### Pictures:
-![3Picture1](../main/img/Assignment3.jpg)
+![3Picture1](../main/img/Assignment3.JPG)
 
 ### Video:
-![3Video1](../main/video/Assignment3.MOV)
+Video:
+https://github.com/resistantJs/Yida_Adv_Interactive_Prototype/raw/main/video/Assignment3.MOV
 
 ### Wiring:
-![3Picture2](../main/img/Assignment3Wiring.jpg)
+![3Picture2](../main/img/Assignment3Wiring.JPG)
 
 
 
